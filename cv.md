@@ -1,3 +1,3 @@
 # Mariya Velikoborets #
-## CV ##
-### Minsk ###
+## **CV** ##
+### **Minsk** ###
