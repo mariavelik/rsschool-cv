@@ -5,4 +5,9 @@ body>div{
 border: #00FF00;
 background-color: #D0F0C0;}
 
-
+nav {
+  position: fixed;
+  left = 0;
+  right = 0;
+  top = 0;
+}
