@@ -4,3 +4,5 @@ body {text-align: center;}
 body>div{
 border: #00FF00;
 background-color: #D0F0C0;}
+
+li {list-style-type: none}
