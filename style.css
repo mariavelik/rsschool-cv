@@ -2,6 +2,9 @@
 .wrapper {
  background: #162831;
  margin: 0 auto;
+ text-align: center;
+ color:  #FFF;
+ font-family: Proxima Nova, sans-serif;
 }
 
 h1 {
@@ -21,22 +24,14 @@ h2 {
   font-style: normal;
   font-weight: 700;
 }
-header {
- text-align: center;
-}
-body {
-  text-align: center;
-}
-main>div {
- border-radius: 10px;
- background-color:#018ABE;
- color:  #FFF;
- font-family: Proxima Nova, sans-serif;
+
+main>div { 
  font-size: 20px;
  font-style: normal;
  font-weight: 300;
  line-height: 140%;
 }
+
 li {
   list-style-type: none
 }   
