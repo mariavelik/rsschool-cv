@@ -27,7 +27,7 @@ header {
 body {
   text-align: center;
 }
-body>div {
+main>div {
  border-radius: 10px;
  background-color:#018ABE;
  color:  #FFF;
