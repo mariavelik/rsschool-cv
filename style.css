@@ -1,17 +1,77 @@
 
-html, body {
-    font-family: Arial, serif;
-    font-size: 16px;
-    margin: 0;
-    padding: 0;
+.wrapper {
+ background: #162831;
+ margin: 0 auto;
+ text-align: center;
+ color:  #FFF;
+ font-family: Proxima Nova, sans-serif;
 }
-table {
-    border-collapse: collapse;
+
+h1 {
+  text-align: center;
+  font-family: El Messiri, sans-serif;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 140%;
 }
-table.border td, table.border th {
-    padding: 5px;
-    border: 1px solid #c0c0c0;
+h2 {
+  text-align: center;
+  font-family: El Messiri, sans-serif;
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 700;
 }
-table.border th {
-    background: #e0e0e0;
+
+main>div { 
+ font-size: 20px;
+ font-style: normal;
+ font-weight: 300;
+ line-height: 140%;
 }
+
+li {
+  list-style-type: none
+}   
+
+#navbar { 
+  overflow: hidden;
+  position: relative;
+  top: 0;
+  color:#FFF;
+  font-family: Proxima Nova, sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 135%;
+}
+                     
+#navbar li  {
+  display: inline;
+  text-align: justify;
+  float: right;
+  padding: 14px 16px;
+  text-decoration: none;
+  color: #FFF;
+  background-color:  #FFF; 
+}
+
+#footer {
+  overflow: hidden;
+  position: relative;
+  bottom: 0;
+  font-family: Proxima Nova, sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 135%;
+}
+
+#footer li {
+ display: inline;
+ text-align: justify;
+ text-decoration: none;
+}
+
+
+            
