@@ -8,7 +8,6 @@
 }
 
 h1 {
-  color: #FFF;
   text-align: center;
   font-family: El Messiri, sans-serif;
   font-size: 64px;
@@ -17,7 +16,6 @@ h1 {
   line-height: 140%;
 }
 h2 {
-  color: #FFF;
   text-align: center;
   font-family: El Messiri, sans-serif;
   font-size: 42px;
@@ -62,7 +60,6 @@ li {
   overflow: hidden;
   position: relative;
   bottom: 0;
-  color: #FFF;
   font-family: Proxima Nova, sans-serif;
   font-size: 16px;
   font-style: normal;
@@ -74,8 +71,6 @@ li {
  display: inline;
  text-align: justify;
  text-decoration: none;
- color: #FFF;
- background-color:  #FFF;
 }
 
 
